@@ -1,2 +1,2 @@
 # mvn-repo
-maven残酷
+maven仓库
